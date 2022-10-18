@@ -13,3 +13,5 @@
 
 # name 
 tajimi kaichi
+
+# birthday
